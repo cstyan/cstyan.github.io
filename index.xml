@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 16 Jun 2019 14:13:55 -0700</lastBuildDate>
     
 	<atom:link href="https://cstyan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://cstyan.github.io/about/</link>
+      <pubDate>Sun, 16 Jun 2019 14:13:55 -0700</pubDate>
+      
+      <guid>https://cstyan.github.io/about/</guid>
+      <description>My name is Callum. I work as a software developer in distributed systems and observability, currently at Grafana Labs where I contribute to Prometheus and Cortex. I also organize the Vancouver Go meetup. This site is a collection of posts, mostly software related, written to have some sort of record of my progress and knowledge.</description>
+    </item>
     
   </channel>
 </rss>

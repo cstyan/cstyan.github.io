@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cstyan.github.io/about/</loc>
+    <lastmod>2019-06-16T14:13:55-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cstyan.github.io/</loc>
+    <lastmod>2019-06-16T14:13:55-07:00</lastmod>
     <priority>0</priority>
   </url>
   
